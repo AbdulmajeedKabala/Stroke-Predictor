@@ -10,7 +10,6 @@ This repository contains a machine learning model to predict the likelihood of s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Overview
 
